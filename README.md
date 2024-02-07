@@ -1,16 +1,7 @@
 # ment09_project
 
-2isp11-30
 
-## Getting Started
+## Main page
 
-This project is a starting point for a Flutter application.
+<img width="647" alt="image" src="https://github.com/lum1ere/git_lesson_11_30/assets/62805755/708c428b-1eec-4f97-b681-b9eb4cc3f961">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
